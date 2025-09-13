@@ -41,8 +41,8 @@ Gesture-Control-System
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Rudragupta23/Gesture-Control-System.git](https://github.com/Rudragupta23/Gesture-Control-System.git)
-    cd GestureControlProject
+    git clone https://github.com/Rudragupta23/Gesture-Control-System.git
+    cd Gesture-Control-System
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
