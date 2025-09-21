@@ -68,5 +68,6 @@ To run the application, make sure you are inside the src directory, then execute
 ```bash
 python main.py
 ```
-
+```bash
 -   Press the **'q'** key to close the application window.
+```
