@@ -1,6 +1,6 @@
 # AI Gesture Control System ✨
 
-An advanced Python application that transforms your webcam into a futuristic gesture-based remote control for your computer. Control volume, media, mouse clicks, and more, all with simple hand signs. Built with OpenCV and Google's MediaPipe.
+An advanced Python application that transforms your webcam into a futuristic gesture-based remote control for your computer. Control volume, media, mouse clicks, and more all with simple hand signs. Built with OpenCV and Google's MediaPipe.
 
 
 ## Features 🚀
