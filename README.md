@@ -23,7 +23,7 @@ An advanced Python application that transforms your webcam into a futuristic ges
 
 ## Project Structure 📂
 
-The project is organized into logical modules for better readability and maintenance.
+The project is organized into logical modules for better readability, and maintenance.
 
 ```
 Gesture-Control-System
